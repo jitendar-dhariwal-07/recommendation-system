@@ -1,0 +1,13 @@
+# Recommendation System Requirements
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Optional: For enhanced CLI features
+colorama>=0.4.4  # For colored terminal output (optional)
+
+# Development
+black>=22.0.0    # Code formatting (optional)
+flake8>=4.0.0    # Linting (optional)
+mypy>=0.950      # Type checking (optional)
